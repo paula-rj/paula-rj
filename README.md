@@ -7,7 +7,7 @@
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 <a href="https://www.medium.com/@paulivrj.1512/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721675-medium_108052.png" />
 </a>
 
 <br />
