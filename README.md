@@ -15,13 +15,15 @@
  
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  
-Hola, soy **Paula**
+Hi! I'm **Paula**
 
-- ⚛️ Estudiante de Licenciatura en Física
-- 📊 Ciencia de Datos
+- ⚛️ Physicist
+- 📊 Data Science
+- Geospacial analysis
+- Python
 - 💻 Kaggler [@Kaggle](https://www.kaggle.com/polavr)
-- 🤔 Intereses: Visión por computadora, Aprendizaje supervisado, Aprendizaje no supervisado, Procesamiento de imagenes satelitales
-- ☁🛰️ Proyecto de tesis: Clasifiación de nubes en imágenes satelitales mediante aprendizaje automático
+- 🤔 Interests: Computer Vision, Machine Learning, Geospatial Data, Atmospheric Physics, Remote Sensig
+- ☁🛰️ Thesis: Clasifiación de nubes en imágenes satelitales mediante aprendizaje automático
 - 📫 How to reach me: 
  [LinkedIn](https://www.linkedin.com/in/paula-romerojure/)
 
