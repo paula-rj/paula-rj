@@ -19,11 +19,14 @@ Hi! I'm **Paula**
 
 - ⚛️ Physicist
 - 📊 Data Science
-- Geospacial analysis
+- ☁🛰️ Remote sensing
+- 🗺️ Geospatial analysis
 - Python
 - 💻 Kaggler [@Kaggle](https://www.kaggle.com/polavr)
-- 🤔 Interests: Computer Vision, Machine Learning, Geospatial Data, Atmospheric Physics, Remote Sensig
-- ☁🛰️ Thesis: Clasifiación de nubes en imágenes satelitales mediante aprendizaje automático
-- 📫 How to reach me: 
+- 🤔 Interests: Machine Learning, Geospatial Data,Remote Sensing, Atmospheric Physics, Clouds
+  
+  📖 Master Thesis: Clasifiación de nubes en imágenes satelitales mediante aprendizaje automático
+  ☁️ Current research: High cloud feedbacks, ocean-atmosphere interactions
+  📫 How to reach me: 
  [LinkedIn](https://www.linkedin.com/in/paula-romerojure/)
 
